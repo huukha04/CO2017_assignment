@@ -21,6 +21,6 @@ git commit -m "Thông điêp"
 git push origin main   
 # Hoặc branch đang làm việc
 git push origin 2211412
+# nếu brand 2211412 chưa tồn tai
+git checkout -b 2211412 
 ```
-
-kha
