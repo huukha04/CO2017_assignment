@@ -1,5 +1,9 @@
 # Tạo codespace
+# Cập nhật mới nhất
+```bash
+git pull origin main
 
+```
 # Tạo thay đổi
 ## Kiểm tra thay đổi
 ```bash
@@ -24,3 +28,4 @@ git push origin 2211412
 # nếu brand 2211412 chưa tồn tai
 git checkout -b 2211412 
 ```
+akkadf
