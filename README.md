@@ -1,5 +1,9 @@
 # Tạo codespace
+# Cập nhật mới nhất
+```bash
+git pull origin main
 
+```
 # Tạo thay đổi
 ## Kiểm tra thay đổi
 ```bash
